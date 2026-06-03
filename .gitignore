@@ -1,0 +1,17 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.env.production
+.phpunit.result.cache
+DuskTestingPair.php
+DuskTestingPair.php.bak
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
