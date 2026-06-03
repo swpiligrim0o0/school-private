@@ -1,0 +1,9 @@
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+DuskTestingPair.php
+DuskTestingPair.php.bak
+.phpunit.result.cache
